@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark your dates! on Literary Club, IISERK</title>
-    <link>https://litclubiiserk.github.io/upcoming/</link>
+    <link>https://litclubofiiserk.github.io/upcoming/</link>
     <description>Recent content in Mark your dates! on Literary Club, IISERK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <atom:link href="https://litclubiiserk.github.io/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://litclubofiiserk.github.io/upcoming/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
